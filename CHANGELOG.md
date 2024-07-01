@@ -1,5 +1,55 @@
 # Changelog
 
+## 0.46.13
+
+### Patch Changes
+
+- fix: add headerClass and footerClass to Textarea, #1380 ([`6ff73c2865522fed10ebc893340b4bee45b6e235`](https://github.com/themesberg/flowbite-svelte/commit/6ff73c2865522fed10ebc893340b4bee45b6e235))
+
+## 0.46.12
+
+### Patch Changes
+
+- fix: : Dropdown change to component prop since $restProps does not work with Svelte 5
+
+## 0.46.11
+
+### Patch Changes
+
+- fix: Badge and Toast component transition ([`ab24e307598ef53ab2b714ebce3f6541c9eb37e4`](https://github.com/themesberg/flowbite-svelte/commit/ab24e307598ef53ab2b714ebce3f6541c9eb37e4))
+
+## 0.46.10
+
+### Patch Changes
+
+- fix: Checkbox for group ([`59108274dd1acdbad37a5fdb26d7ff93c9bf8de5`](https://github.com/themesberg/flowbite-svelte/commit/59108274dd1acdbad37a5fdb26d7ff93c9bf8de5))
+
+## 0.46.9
+
+### Patch Changes
+
+- fix: remove the default values for Checkbox group and choices ([`20686def610fca25f1a49013216dbbbdd7ca657d`](https://github.com/themesberg/flowbite-svelte/commit/20686def610fca25f1a49013216dbbbdd7ca657d))
+
+## 0.46.8
+
+### Patch Changes
+
+- fix: Checkbox group ([`540e8c32933ccafc19c338f8aa3676fdb5575dc4`](https://github.com/themesberg/flowbite-svelte/commit/540e8c32933ccafc19c338f8aa3676fdb5575dc4))
+
+## 0.46.7
+
+### Patch Changes
+
+- fix: TableBodyCell separate td and button ([`ba1705a6bbebf05ab3274e3bcb4ab811931440f5`](https://github.com/themesberg/flowbite-svelte/commit/ba1705a6bbebf05ab3274e3bcb4ab811931440f5))
+
+## 0.46.6
+
+### Patch Changes
+
+- fix: add default values to Badge component props ([`2bb23fd9717f028f387c26ff8ab1239a07bec21f`](https://github.com/themesberg/flowbite-svelte/commit/2bb23fd9717f028f387c26ff8ab1239a07bec21f))
+
+- fix: Badge component update ([`2bb23fd9717f028f387c26ff8ab1239a07bec21f`](https://github.com/themesberg/flowbite-svelte/commit/2bb23fd9717f028f387c26ff8ab1239a07bec21f))
+
 ## 0.46.5
 
 ### Patch Changes

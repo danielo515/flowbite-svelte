@@ -7,6 +7,24 @@ export type ButtonType = 'button' | 'submit' | 'reset';
 
 export type ButtonColorType = 'alternative' | 'blue' | 'dark' | 'green' | 'light' | 'primary' | 'purple' | 'red' | 'yellow' | 'none';
 
+export type CheckboxItem = {
+  value: string;
+  label?: string; 
+  isChecked?: boolean; 
+};
+
+export type ColorVariant =
+  | 'dark'
+  | 'red'
+  | 'yellow'
+  | 'green'
+  | 'indigo'
+  | 'purple'
+  | 'pink'
+  | 'blue'
+  | 'primary'
+  | 'none';
+
 export type Colors = 'blue' | 'gray' | 'red' | 'yellow' | 'purple' | 'green' | 'indigo' | 'pink' | 'white' | 'custom' | 'primary' | 'secondary';
 
 export type ImgType = {
@@ -143,3 +161,10 @@ export interface ButtonClassesTypes {
   video?: string;
   custom?: string;
 }
+
+export type ToastPositionType =
+  | 'top-left'
+  | 'top-right'
+  | 'bottom-left'
+  | 'bottom-right'
+  | 'none';
